@@ -1,0 +1,14 @@
+C:\Users\MINEDUCYT\Desktop\Refuerzo_C#\Refuerzo_C#\bin\Debug\net8.0\Refuerzo_C#.exe
+C:\Users\MINEDUCYT\Desktop\Refuerzo_C#\Refuerzo_C#\bin\Debug\net8.0\Refuerzo_C#.deps.json
+C:\Users\MINEDUCYT\Desktop\Refuerzo_C#\Refuerzo_C#\bin\Debug\net8.0\Refuerzo_C#.runtimeconfig.json
+C:\Users\MINEDUCYT\Desktop\Refuerzo_C#\Refuerzo_C#\bin\Debug\net8.0\Refuerzo_C#.dll
+C:\Users\MINEDUCYT\Desktop\Refuerzo_C#\Refuerzo_C#\bin\Debug\net8.0\Refuerzo_C#.pdb
+C:\Users\MINEDUCYT\Desktop\Refuerzo_C#\Refuerzo_C#\obj\Debug\net8.0\Refuerzo_C#.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\MINEDUCYT\Desktop\Refuerzo_C#\Refuerzo_C#\obj\Debug\net8.0\Refuerzo_C#.AssemblyInfoInputs.cache
+C:\Users\MINEDUCYT\Desktop\Refuerzo_C#\Refuerzo_C#\obj\Debug\net8.0\Refuerzo_C#.AssemblyInfo.cs
+C:\Users\MINEDUCYT\Desktop\Refuerzo_C#\Refuerzo_C#\obj\Debug\net8.0\Refuerzo_C#.csproj.CoreCompileInputs.cache
+C:\Users\MINEDUCYT\Desktop\Refuerzo_C#\Refuerzo_C#\obj\Debug\net8.0\Refuerzo_C#.dll
+C:\Users\MINEDUCYT\Desktop\Refuerzo_C#\Refuerzo_C#\obj\Debug\net8.0\refint\Refuerzo_C#.dll
+C:\Users\MINEDUCYT\Desktop\Refuerzo_C#\Refuerzo_C#\obj\Debug\net8.0\Refuerzo_C#.pdb
+C:\Users\MINEDUCYT\Desktop\Refuerzo_C#\Refuerzo_C#\obj\Debug\net8.0\Refuerzo_C#.genruntimeconfig.cache
+C:\Users\MINEDUCYT\Desktop\Refuerzo_C#\Refuerzo_C#\obj\Debug\net8.0\ref\Refuerzo_C#.dll
